@@ -55,6 +55,7 @@ between autonomous warrant and truth. Fred’s options:
 >     somewhat likely to be true in virtue of the fact that they are
 >     autonomously warranted.
 >
+
 The problem is now clear: Fred has a trilemma where none of options are
 tenable. If Fred assents to the that autonomously warranted propositions
 are likely to be true in light of there being autonomously warranted,
@@ -284,9 +285,9 @@ interesting arguments have syntactical properties. An example of such an
 interesting argument would be *modus ponens* in its classical
 formulation:
 
-<span>c@l@</span> & $p$\
- & $p \to q$\
- $\therefore$ & $q$\
+$$p$$
+$$p \to q$$
+$$\therefore q$$
 
 What makes *modus ponens* interesting in the relevant way is that there
 are no repeated terms, the argument is irreducible, and the conclusion
@@ -295,10 +296,10 @@ to the argument and not cause the argument to be invalid or change the
 conclusion. Uninteresting arguments, on the other hand, have repeated,
 inessential syntactic components. For instance, consider the argument:
 
-<span>c@l@</span> & $p$\
- & $p \to q$\
-& $\lnot q \to \lnot p$\
- $\therefore$ & $q$\
+$$p$$
+$$p \to q$$
+$$\lnot q \to \lnot p$$
+$$\therefore q$$
 
 This modification does not change the validity of the argument, it is
 still truth preserving. But what makes it uninteresting is that the
@@ -310,10 +311,13 @@ There are also semantic conditions on what makes for an interesting
 argument. Like in syntax, there interesting arguments contain no
 repeated or redundant propositions. For instance, consider the argument:
 
-<span>c@l@</span> & All animals are mortal.\
-& All men are mortal.\
-& Socrates is an animal and a man.\
- $\therefore$ & Socrates is mortal\
+> All animals are mortal.
+>
+> All men are mortal.
+>
+> Socrates is an animal and a man.
+>
+> $\therefore$ Socrates is mortal.
 
 What makes this argument uninteresting is that it has an inessential and
 still unproblematic element. Any reasoner can come to the same
