@@ -1,4 +1,5 @@
-# Mill’s *Utilitarianism* and Virtue <small>by Paul Jones</small>
+Mill’s *Utilitarianism* and Virtue <small>by Paul Jones</small>
+===============================================================
 
 A moral theory is a theory which posits that something is valuable,
 pleasure, virtue, duty, or self-interest, for example. Any new moral
@@ -307,7 +308,8 @@ politically conservative Victorian England and the modern, liberal, and
 pluralist West, the concept of utility endures as an impartial means to
 determine the practical moral worth of actions and policies.
 
+Works Cited
+===========
 
-# Works Cited
+1.  Mill, John Stuart. *Utilitarianism*. 1863.
 
-1. Mill, John Stuart. *Utilitarianism*. 1863.

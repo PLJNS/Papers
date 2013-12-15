@@ -1,4 +1,5 @@
-# Assertion and its Problems <small>by Paul Jones</small>
+Assertion and its Problems <small>by Paul Jones</small>
+=======================================================
 
 In a complex synthesis of epistemology, linguistics, and normativity,
 the study of assertion has emerged as both an exciting and troubling
@@ -44,11 +45,11 @@ physical action? MacFarlane writes that there are four principle
 accounts of how assertion is different from other acts, and how one is
 to answer these questions, and they are:
 
-1. To assert is to express an attitude,
-2. To assert is to make a move defined by its constitutive rules,
-3. To assert is to propose to add information to the conversational
-common ground, and 
-4. To assert is to undertake a commitment.
+1.  To assert is to express an attitude,
+2.  To assert is to make a move defined by its constitutive rules,
+3.  To assert is to propose to add information to the conversational
+    common ground, and
+4.  To assert is to undertake a commitment.
 
 While there are uncontroversial and highly intuitive elements about (1),
 there are also serious issues. This is an example of an *account of
@@ -76,10 +77,10 @@ assertion is Williamson’s Knowledge Rule (KR). The other three being the
 Belief Rule (BR), the Truth Rule (TR), the Reasonable to Believe Rule
 (RBR), as follows:
 
-- (KR) Assert that *p* iff one knows that *p*.
-- (BR) Assert that *p* iff one believes that *p*.
-- (TR) Assert that *p* iff it is true that *p*.
-- (RBR) Assert that *p* iff it is reasonable to believe that *p*.
+-   (KR) Assert that *p* iff one knows that *p*.
+-   (BR) Assert that *p* iff one believes that *p*.
+-   (TR) Assert that *p* iff it is true that *p*.
+-   (RBR) Assert that *p* iff it is reasonable to believe that *p*.
 
 The way that this account of assertion would deal with the objection of
 retraction described above by defining a non-constitive norm of
@@ -105,7 +106,7 @@ the philosophy of knowledge and assertion is obliged to respond to
 Moore’s work on the problem that is now called “Moore’s Paradox.” It is
 a simple paradox, the model is as follows:
 
-- (MP) *p* and I do not believe that *p*.
+-   (MP) *p* and I do not believe that *p*.
 
 What is the problem with this? As Moore points out, it is not MP’s
 semantic meaning or the impossibility of MP’s conditions being true
@@ -175,8 +176,8 @@ hypothetical conversation between two colleagues:
 
 > “How is C doing in his job?,” asks the first. The second replies,
 
-> “Oh quite well, I think; he likes his colleagues, and he hasn’t been to
-prison yet.”
+> “Oh quite well, I think; he likes his colleagues, and he hasn’t been
+> to prison yet.”
 
 This is the type of conversation where Black may say that logicians and
 linguists would point out a problem with the meaning of “he hasn’t been
@@ -210,18 +211,18 @@ which explains what (1) cannot? A possible and well-received answer to
 both these questions is Grice’s explicit formulation of implicature,
 which uses his Gricean Maxims, which are as follows:
 
-- (Quantity) Be as informative as is required.
-- (Quality) Do not say what you believe to be false or what you don’t have
-evidence for.
-- (Relation) Be relevant.
-- (Manner) Be brief, orderly, and unambiguous.
+-   (Quantity) Be as informative as is required.
+-   (Quality) Do not say what you believe to be false or what you don’t
+    have evidence for.
+-   (Relation) Be relevant.
+-   (Manner) Be brief, orderly, and unambiguous.
 
 When subjects exchange assertions, Grice claims, they agree to these
 conversational rules under the Cooperative Principle:
 
-- (CP) “Make your contribution such as it is required, at the stage at
-which it occurs, by the accepted purpose or direction of the talk
-exchange in which you are engaged.”
+-   (CP) “Make your contribution such as it is required, at the stage at
+    which it occurs, by the accepted purpose or direction of the talk
+    exchange in which you are engaged.”
 
 When a subject *S* flouts a maxim while the hearer still believes *S* is
 following (CP), Grice argues, *S* is implying something. In the case of
@@ -246,18 +247,19 @@ John Williams, in his work “Moorean Absurdities and the Nature of
 Assertion”, defines what he calls “Moorean sentences” and assertion in
 general. The two accounts explaining (MP) described previously are: (1)
 Moore’s original explanation of his paradox was such that implies the
-lack of belief that \\(\sim\\)*p*, and (2) the Williamsoniam view that (MP)
-violates a norm of assertion, namely (KR). Williams, a well established
-expert on (MP), offers a more precise definition of what he calls
-Moorean sentences and a more explicit distinguishing of what is absurd
-about (MP). He defines assertion and Moorean sentences as follows:
+lack of belief that \\(\sim\\)*p*, and (2) the Williamsoniam view that
+(MP) violates a norm of assertion, namely (KR). Williams, a well
+established expert on (MP), offers a more precise definition of what he
+calls Moorean sentences and a more explicit distinguishing of what is
+absurd about (MP). He defines assertion and Moorean sentences as
+follows:
 
-- ​(A) Anyone asserts that *p* iff that person expresses a belief that *p*
-with the intention of causing relevant epistemic change in the cognition
-of an audience.
-- (MS) Any proposition is Moorean iff it is consistent and any assertor of
-it can be justifiably criticized as irrational, but only on the
-assumption that he believes it.
+-   ​(A) Anyone asserts that *p* iff that person expresses a belief that
+    *p* with the intention of causing relevant epistemic change in the
+    cognition of an audience.
+-   (MS) Any proposition is Moorean iff it is consistent and any
+    assertor of it can be justifiably criticized as irrational, but only
+    on the assumption that he believes it.
 
 These two definitions are completely consistent with one another and
 with the account primarily adopted by this paper, with one exception.
@@ -278,7 +280,7 @@ covered, but the exception is this clause “justifiably criticized as
 irrational.” When *S* asserts the (MS) *p* according to (CP), for
 instance:
 
-- (MSa) “God knows that I am a non-believer”,
+-   (MSa) “God knows that I am a non-believer”,
 
 there is a Blackian distinction between the meaning and the
 significance. The meaning of *S*’s assertion can be criticized, but not
@@ -291,8 +293,8 @@ existence of being that *S* does not believe in and (Manner) because
 this makes (MSa) ambiguous. To further help in the analysis of (MS)s,
 Williams has two classes of (MS):
 
-- ​(a) *p* and I don’t believe that *p*
-- (b) *p* and I believe that \\(\sim\\)*p*
+-   ​(a) *p* and I don’t believe that *p*
+-   (b) *p* and I believe that \\(\sim\\)*p*
 
 He writes that the distinction is such that an (a)-type assertion
 “expresses a commitment and the lack of it to the same belief,” while a
@@ -338,11 +340,22 @@ disseminates into the undergraduate population, novel objections and
 insights into assertion will develop, and an increasingly accurate
 account of assertion will emerge.
 
-# Works Cited
+Works Cited
+===========
 
-1. Black, M. *Problems of analysis: Philosophical essays*, chap. 3. Saying and Disbelieving. Greenwood Press, 1971, 46 – 57.
-2. Grice, Paul. *Studies in the Way of Words*, chap. 2. Logic and Conversation. Cambridge, Massachusetts: Harvard University Press, 1989, 22 – 40.
-3. MacFarlane, John. ["What Is Assertion?"](http://johnmacfarlane.net/assertion.pdf) Assertion.
-4. Moore, G.E. "Moore's paradox." En: Baldwin, T.(ed..), Selected Writings. Londres: Routledge : 207–212.
-5. Williams, J.N. "Moorean absurdities and the nature of assertion." Australasian Journal of Philosophy 74.1 (1996): 135–149.
-6. Williamson, T. [*Knowledge and its limits*](http://books.google.com/books?id=tMDqMUTg6gYC). Oxford Scholarship Online. Philosophy module. Oxford University Press, 2002.
+1.  Black, M. *Problems of analysis: Philosophical essays*, chap. 3.
+    Saying and Disbelieving. Greenwood Press, 1971, 46 – 57.
+2.  Grice, Paul. *Studies in the Way of Words*, chap. 2. Logic and
+    Conversation. Cambridge, Massachusetts: Harvard University Press,
+    1989, 22 – 40.
+3.  MacFarlane, John. ["What Is
+    Assertion?"](http://johnmacfarlane.net/assertion.pdf) Assertion.
+4.  Moore, G.E. "Moore's paradox." En: Baldwin, T.(ed..), Selected
+    Writings. Londres: Routledge : 207–212.
+5.  Williams, J.N. "Moorean absurdities and the nature of assertion."
+    Australasian Journal of Philosophy 74.1 (1996): 135–149.
+6.  Williamson, T. [*Knowledge and its
+    limits*](http://books.google.com/books?id=tMDqMUTg6gYC). Oxford
+    Scholarship Online. Philosophy module. Oxford University Press,
+    2002.
+

@@ -399,8 +399,14 @@ substance and Leibniz’s necessary existence of God.
 Works Cited
 ===========
 
-1.  Black, Max. “The Identity of Indiscernibles.” *Mind* 61.242 (1952): 153–164.
-2.  Bolton, Martha. “Leibniz (01:730:416).” Rutgers University Lecture, Spring 2013.
-3.  Stanford Encyclopedia of Philosophy. “The Identity of Indiscernibles.” Online, 2013. URL http://plato.stanford.edu/entries/identity-indiscernible/
-4.  von Leibniz, Gottfried Wilhelm Freiherr. *Discourse on Metaphysics*. 1686. 
+1.  Black, Max. “The Identity of Indiscernibles.” *Mind* 61.242 (1952):
+    153–164.
+2.  Bolton, Martha. “Leibniz (01:730:416).” Rutgers University Lecture,
+    Spring 2013.
+3.  Stanford Encyclopedia of Philosophy. “The Identity of
+    Indiscernibles.” Online, 2013. URL
+    http://plato.stanford.edu/entries/identity-indiscernible/
+4.  von Leibniz, Gottfried Wilhelm Freiherr. *Discourse on Metaphysics*.
+    1686.
 5.  von Leibniz, Gottfried Wilhelm Freiherr. “Primary Truths.” .
+

@@ -1,4 +1,5 @@
-# The Mutual Exclusivity of Utility and Liberty <small>by Paul Jones</small>
+The Mutual Exclusivity of Utility and Liberty <small>by Paul Jones</small>
+==========================================================================
 
 John Stuart Mill had a prolific output, utilizing his impressive
 education and undemanding profession to revolutionize philosophy. Of his
@@ -312,7 +313,9 @@ absolute, we can assume he means secondary to utility. There is a
 conflict between the two because absolute consideration for one or the
 other leads to very different consequences.
 
-# Works Cited
+Works Cited
+===========
 
-1. Mill, John Stuart. *On Liberty*. 1859. 
-2. Mill, John Stuart. *Utilitarianism*. 1863.
+1.  Mill, John Stuart. *On Liberty*. 1859.
+2.  Mill, John Stuart. *Utilitarianism*. 1863.
+

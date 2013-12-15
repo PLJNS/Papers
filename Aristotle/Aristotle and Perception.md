@@ -177,7 +177,6 @@ to the matter outside the brain, through **transduction**:
 >
 > 2.  $x$ receives $F$ by receiving $G$ with the matter.
 >
-
 From his large survey of positions and arguments for and against them,
 Caston claims that there is an alternative to the two seemingly
 diametrically opposed theories. He makes it clear that Aristotle is
@@ -205,11 +204,12 @@ Works Cited
 
 1.  Burnyeat, Myles F. “De anima II 5.” Phronesis: A Journal for Ancient
     Philosophy 47.1 (2002): 28–90.
-2.  Caston, Victor. “The spirit and the letter: Aristotle on 
-    perception.” In- *Metaphysics, Soul, and Ethics in Ancient Thought*. 
-    Themes from the Work of Richard Sorabji, edited by R. Salles : 
+2.  Caston, Victor. “The spirit and the letter: Aristotle on
+    perception.” In- *Metaphysics, Soul, and Ethics in Ancient Thought*.
+    Themes from the Work of Richard Sorabji, edited by R. Salles :
     245–320.
 3.  Ross, William David et al. *De anima*. Clarendon Press, 1961.
-4.  Sorabji, Richard. “Intentionality and Physiological Processes: 
-    Aristotles Theory of Sense-Perception.” *Essays on Aristotles 
-    De anima* : 195–226.
+4.  Sorabji, Richard. “Intentionality and Physiological Processes:
+    Aristotles Theory of Sense-Perception.” *Essays on Aristotles De
+    anima* : 195–226.
+
